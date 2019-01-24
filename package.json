@@ -1,0 +1,19 @@
+{
+  "name": "old-cannon",
+  "version": "1.0.0",
+  "description": "Old version of CannonJS",
+  "main": "cannon.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdemoya/old-cannon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdemoya/old-cannon/issues"
+  },
+  "homepage": "https://github.com/kdemoya/old-cannon#readme"
+}
